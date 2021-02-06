@@ -1,3 +1,6 @@
 this is a my first git test prog.
 Good Luck
 바이 
+-- second input text 
+ end
+
